@@ -2,13 +2,13 @@
 
 /**
  * Provinces of Algeria (Wilayas)
- * - 48 provinces
+ * - 58 provinces
  * 
  * Source:
  * - https://en.wikipedia.org/wiki/Provinces_of_Algeria
  * 
- * Updated: March 22, 2020
- * By Yordan Soares <contact@yordansoar.es> | https://yordansoar.es
+ * Updated: December 5, 2024
+ * By RAHMANI AbdElFattah <RAHMANI AbdElFattah@gmail.com> | @F7k-B0y
  * 
  * @author  Walid Yacine MAZED <w.mazed@mindscom.net>
  * @version 1.0.0
@@ -66,6 +66,18 @@ $states['DZ'] = array(
 	'DZ-46' => _x('Aïn Témouchent', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
 	'DZ-47' => _x('Ghardaïa', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
 	'DZ-48' => _x('Relizane', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+
+	// 10 new added provinces 
+	'DZ-49' => _x('Timimoun', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-50' => _x('Bordj Badji Mokhtar', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-51' => _x('Ouled Djellal', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-52' => _x('Béni Abbès', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-53' => _x('In Salah', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-54' => _x('In Guezzam', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-55' => _x('Touggourt', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-56' => _x('Djanet', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-57' => _x('El M’Ghair', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-58' => _x('El Menia', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
 );
 
 // Use this filter to handle the Provinces of Algeria
